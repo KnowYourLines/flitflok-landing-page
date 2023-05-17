@@ -3,6 +3,22 @@
 
 @import "{{ site.theme }}";
 
-header {
-  display: none;
+a#forkme_banner {
+    display: none
+}
+
+footer p {
+    color: transparent
+}
+
+footer a {
+    display: none
+}
+
+footer span.ribbon-inner p {
+    color: transparent
+}
+
+footer span.octocat{
+    display: none
 }
