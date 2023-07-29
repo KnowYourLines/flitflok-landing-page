@@ -4,7 +4,8 @@
 
 #### Experience the closest thing to a phone call that isn't live
 
-# Coming soon to Android and iOS
+# Availabe now on [Google Play](https://play.google.com/store/apps/details?id=com.blabhear)
+# Coming soon to iOS
 
 <div id="contact">
     <h1>Get in Touch</h1>
