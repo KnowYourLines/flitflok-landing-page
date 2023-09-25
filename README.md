@@ -1,9 +1,3 @@
-#### Only hear the latest thing anyone said when messaging your contacts in voice-only chats
-
-#### Speak and listen through your phone's built-in mic and earpiece
-
-#### Experience the closest thing to a phone call that isn't live
-
 # Available now on [Google Play](https://play.google.com/store/apps/details?id=com.blabhear)
 # Coming soon to iOS
 
