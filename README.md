@@ -1,5 +1,4 @@
-# Available now on [Google Play](https://play.google.com/store/apps/details?id=com.blabhear)
-# Coming soon to iOS
+# Available now on [Google Play](https://play.google.com/store/apps/details?id=com.blabhear) and the [App Store](https://apps.apple.com/gb/app/blabhear/id6451455329)
 
 <div id="contact">
     <h1>Get in Touch</h1>
