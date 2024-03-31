@@ -1,4 +1,5 @@
 # Coming Soon
+## To delete all your account data from the app, go to the sign in/sign out tab. All posts and account details will be deleted
 
 <div id="contact">
     <h1>Get in Touch</h1>
