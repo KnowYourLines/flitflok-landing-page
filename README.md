@@ -1,4 +1,5 @@
 # To delete all your account data from the app, go to the account sign in/sign out tab in the app. 
+
 # All video posts submitted, email address, password and identifiers for your account will be deleted.
 
 <div id="contact">
